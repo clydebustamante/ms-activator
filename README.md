@@ -1,4 +1,4 @@
-# ms-activator.cmd
+## ms-activator.cmd
 
 ```cmd
 echo off
@@ -16,3 +16,14 @@ echo.&echo =====================================================================
 :halt
 pause >nul
 ```
+
+---
+
+## **Thanks For Visiting**
+
+<img src="https://i.gifer.com/origin/85/85a25f50ae5f4939336831d0b902e822_w200.gif" width=130 align=right>
+
+Hope you liked it. Want to help?
+
+- **[Star This Repository](https://github.com/clydebustamante/ms-activator)**
+
